@@ -2,6 +2,13 @@
 
 Un sistema de Retrieval-Augmented Generation (RAG) especializado en el análisis de documentos médicos, estudios clínicos y protocolos de investigación. Extrae información precisa de PDFs complejos con tablas extensas y datos estructurados.
 
+⚡ Punto Crítico a Mejorar: Reducción de Latencia
+🚨 PROBLEMA IDENTIFICADO
+Larga latencia en respuestas - Actualmente el sistema puede tomar entre 1 a 2 minutos por consulta, lo que afecta la experiencia de usuario en entornos productivos.
+
+🎯 RECOMENDACIÓN PRIORITARIA
+🔧 IMPLEMENTAR PINECONE - Para Escala Profesional
+
 ## 🚀 Características Principales
 
 ### 🔍 Extracción Avanzada de Tablas
