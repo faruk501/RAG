@@ -29,8 +29,5 @@ Un sistema de Retrieval-Augmented Generation (RAG) especializado en el análisis
 - Ollama con modelo `llama3.1` instalado
 - Cuenta en Qdrant Cloud
 
-### 1. Clonar e instalar dependencias
-```bash
-git clone <repository-url>
-cd rag-tutorial-v2
-pip install -r requirements.txt
+### corre con esto ,  streamlit run app.py
+
