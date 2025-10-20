@@ -1,0 +1,28 @@
+# Streamlit para la interfaz web
+streamlit
+
+# 🔥 NUEVO: Procesamiento de PDFs más rápido
+pymupdf  # Reemplaza a pypdf
+unstructured[pdf]
+langchain-unstructured
+
+# LangChain - Framework principal
+langchain
+langchain-community
+langchain-text-splitters
+langchain-qdrant
+
+# Vector Database
+qdrant-client
+
+# Embeddings mejorados
+sentence-transformers
+
+# Ollama para LLM local
+ollama
+
+# Dependencias adicionales
+transformers
+torch
+huggingface-hub
+python-dotenv
